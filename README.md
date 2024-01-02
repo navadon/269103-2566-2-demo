@@ -5,3 +5,4 @@
 - **Place**: Chiang Mai University
 - **Fav Number**: 7
 - **Fav Day**: Holidays
+- **Fav Month**: December
